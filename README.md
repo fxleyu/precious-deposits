@@ -1,7 +1,7 @@
-# Tux
-![mascot](https://upload.wikimedia.org/wikipedia/commons/a/a1/Tux2.png)
+# 宝藏（precious deposits）
+![1f8d000698973a4a5580](https://user-images.githubusercontent.com/3362121/40420311-a3931fc4-5eba-11e8-94e0-c76eb5fd4065.jpg)
 
-Tux是一个企鹅形象，同时是 Linux 内核的吉祥物。
+宝藏内存有大量珍宝，等待去一一归档整理。
 
-本仓库主要用于管理shell脚本、常用Linux命令、Git命令等其他Linux命令行的命令。
-故，取名为Tux。
+
+实在是这里存的东西太多了，真心不知道如何处理。
